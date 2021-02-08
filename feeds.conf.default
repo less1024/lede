@@ -9,3 +9,7 @@ src-git freifunk https://github.com/freifunk/openwrt-packages.git
 #src-git oldpackages http://git.openwrt.org/packages.git
 #src-link custom /usr/src/openwrt/custom-feed
 src-git helloworld https://github.com/fw876/helloworld
+src-git openClash https://github.com/vernesong/OpenClash
+src-git vssr https://github.com/jerrykuku/luci-app-vssr
+src-git passwall https://github.com/xiaorouji/openwrt-passwall
+src-git bypass https://github.com/garypang13/luci-app-bypass
